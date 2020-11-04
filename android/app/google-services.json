@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390455755039",
+    "firebase_url": "https://claruswayfirebase-f73f4.firebaseio.com",
+    "project_id": "claruswayfirebase-f73f4",
+    "storage_bucket": "claruswayfirebase-f73f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390455755039:android:53ce36314d8d4ea760b02a",
+        "android_client_info": {
+          "package_name": "com.introtoredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390455755039-lumjs4ji6qtq7u0tnvchg7rl8jjpdfgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtgeeCDpGolpXa6pk92BkqM3kL5Le_4X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390455755039-lumjs4ji6qtq7u0tnvchg7rl8jjpdfgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
